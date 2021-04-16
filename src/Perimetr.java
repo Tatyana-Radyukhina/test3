@@ -10,6 +10,7 @@ public class Perimetr {
 class PerimetrTriangle {
     int a;
     int R;
+    int b;
     public static int triangle (int a){
         a = a*3;
         return a;
